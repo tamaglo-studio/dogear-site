@@ -23,8 +23,8 @@
 ## インストール
 
 ### Chrome ウェブストアから（推奨）
-> 近日公開予定
-
+[https://chrome.google.com/webstore/detail/xxxx
+](https://chromewebstore.google.com/detail/dogear-%E8%AA%AD%E3%82%93%E3%81%A0%E3%83%9A%E3%83%BC%E3%82%B8%E3%82%92%E8%A8%98%E6%86%B6%E3%81%99%E3%82%8B%E5%B1%A5%E6%AD%B4%E6%8B%A1%E5%BC%B5/oihkighmghflioklccacghbonngbefgn?hl=ja&utm_source=ext_sidebar)
 ### 開発者モードで手動インストール
 
 1. このリポジトリをクローンまたは ZIP でダウンロード
